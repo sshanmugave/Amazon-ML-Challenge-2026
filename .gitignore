@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Large Datasets & Parquet Caches (>100MB files prohibited on GitHub)
+cache/
+*.parquet
+
+# Large Full-Scale Submission Outputs (>100MB)
+submissions/matching_results.tsv
+submissions/submission.tsv
+submissions/*.tsv.gz
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Temporary Files
+*.log
+checkpoints/
+tmp/
+scratch/
+CHECKPOINT_MORNING_RESUME.md

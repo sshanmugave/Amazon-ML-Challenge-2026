@@ -1,0 +1,16 @@
+entity_id	name	address	country
+S3-8001	AWS Amazon Cloud Services	Terry Ave N 410, Seattle, WA 98109	US
+S3-8002	Starbucks Coffee Roasters	2401 Utah Ave S Ste 800, Seattle, WA 98134	US
+S3-8003	Cupertino Apple Computer	Infinite Loop 1, Cupertino, California 95014	US
+S3-8004	Wal-Mart Stores Inc 100	2110 W Walnut, Rogers, AR 72756	US
+S3-8005	Silicon Valley Venture Partners	3000 Sand Hill Rd, Menlo Park, CA 94025	US
+S3-9001	TCS Tata Consultancy Services	Suren Road Banyan Park Andheri, Mumbai 400093	India
+S3-9002	Reliance Retail Venture	Nariman Point Maker Chambers IV, Mumbai 400021	India
+S3-9003	Infosys Technologies	Hosur Main Rd Electronics City, Bengaluru 560100	India
+S3-9004	HDFC Bank Ltd	Lower Parel Senapati Bapat Marg, Mumbai 400013	India
+S3-9005	Delhi Logistics Services	Connaught Place, New Delhi 110001	India
+S3-9501	Société Générale Siège	Boulevard Haussmann 29, 75009 Paris	France
+S3-9502	L'Oréal Paris Luxe	Rue Royale 14, 75008 Paris	France
+S3-9503	Carrefour Hypermarchés France	Avenue de Paris 93, 91300 Massy	France
+S3-9504	BNP Paribas Corporate	Boulevard des Italiens 16, 75009 Paris	France
+S3-9505	Marseille Shipping SA	Quai du Port, 13002 Marseille	France

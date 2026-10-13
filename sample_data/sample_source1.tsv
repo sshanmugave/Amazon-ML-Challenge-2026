@@ -1,0 +1,16 @@
+entity_id	name	address	country
+S1-1001	Amazon Web Services Inc	410 Terry Ave N, Seattle, WA 98109	US
+S1-1002	Starbucks Coffee Company	2401 Utah Ave S, Seattle, WA 98134	US
+S1-1003	Apple Computer Inc	1 Infinite Loop, Cupertino, CA 95014	US
+S1-1004	Walmart Supercenter Store 100	2110 W Walnut St, Rogers, AR 72756	US
+S1-1005	Autonomous Robotics Lab LLC	99 Pioneer Way, Mountain View, CA 94041	US
+S1-2001	Tata Consultancy Services Limited	Banyan Park, Suren Road, Andheri East, Mumbai 400093	India
+S1-2002	Reliance Retail Private Limited	Maker Chambers IV, Nariman Point, Mumbai 400021	India
+S1-2003	Infosys Technologies Ltd	Electronics City, Hosur Road, Bangalore 560100	India
+S1-2004	HDFC Bank Commercial Branch	Senapati Bapat Marg, Lower Parel, Mumbai 400013	India
+S1-2005	Chai Point Beverages Pvt Ltd	Indiranagar 100 Feet Rd, Bangalore 560038	India
+S1-3001	Société Générale de Banque SAS	29 Boulevard Haussmann, 75009 Paris	France
+S1-3002	L'Oréal Produits de Luxe France	14 Rue Royale, 75008 Paris	France
+S1-3003	Carrefour Hypermarché SAS	93 Avenue de Paris, 91300 Massy	France
+S1-3004	BNP Paribas Banque Privée	16 Boulevard des Italiens, 75009 Paris	France
+S1-3005	Boulangerie Artisanale du Marais	22 Rue des Rosiers, 75004 Paris	France
